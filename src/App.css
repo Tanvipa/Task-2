@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.react{
+    color: beige;
+    height: 50px;
+    padding: 20px;
+    padding-top: 20px;
+}
+.image{
+  padding: 16px;
+  text-align: center;
+}
+.btn{
+  background-color: black;
+  color: white;
+  cursor:pointer;
+  padding: 6px;
+}
+.image-row {
+    margin: 20px;
+    display: block;
+  }
+  .image-column {
+    float: left;
+    width: 25%;
+    padding: 15px 15px;
+    margin: 18px;
+  }
